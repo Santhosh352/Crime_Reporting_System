@@ -1,0 +1,71 @@
+body{
+    position: relative;
+    min-height: 100vh;		
+    display: flex;			
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/digital.png");
+    background-size: cover;
+}
+.menudropdown {
+    width:95%;
+    height:100px;
+    margin:0px auto;
+}
+.menudropdown ul{
+    padding:0px;
+}
+.menudropdown ul li {
+    width:200px;
+    float:left;
+    background-color: black;
+    color: white;
+    height:50px;
+    line-height: 50px;
+    font-size: 25px;
+    text-align:center;
+    list-style:none;
+    opacity:0.9;							
+    font-family: poppins;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.menudropdown ul li a{
+    color: #fff;
+    text-decoration: none;				
+}
+.menudropdown ul li ul{
+    display:none;
+}
+.menudropdown ul li:hover>ul{
+    display:block;
+}
+.menudropdown ul li:hover{
+    background-color: #32CD32;
+    opacity:0.8;
+}
+.menudropdown ul li ul li{
+    position:relative;
+}	
+.menudropdown ul li ul li ul{
+    position:absolute;
+    left:200px;
+    top:0px;
+}
+.welcome-text{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+}
+.welcome-text h1 {
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+.welcome-text h1 span {
+    color: #00fecb;
+}
