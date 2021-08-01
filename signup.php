@@ -15,7 +15,7 @@ session_start();
     </head>
     <style>
         body{
-            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/IMG-20201219-WA0000.jpg");
+            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/IMG-20201219-WA0000.jpg");
             background-repeat:no-repeat;
             background-size:100% 100%;
         } 
