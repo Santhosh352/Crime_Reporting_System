@@ -14,3 +14,7 @@ This project has 6 Modules:
 4. Judgement Report: It shows Judgement details given by the court of the completed case.
 5. Police Details: It shows police details. It helps to Users to contact the police.
 6. Wanted Criminal Details: It shows wanted criminal details.
+
+Home Page:
+
+![Home](https://user-images.githubusercontent.com/88262226/127856508-bb994a39-b61f-4ca5-9477-76133ababc0d.gif)
