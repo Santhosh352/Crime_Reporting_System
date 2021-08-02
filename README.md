@@ -18,6 +18,8 @@ This project has 6 Modules:
 Home Page:
 
 ![Home](https://user-images.githubusercontent.com/88262226/127856508-bb994a39-b61f-4ca5-9477-76133ababc0d.gif)
+
 Admin Page:
+
 ![Admin](https://user-images.githubusercontent.com/88262226/127857743-42b43e67-69fc-44b3-88b9-0c84cb6f5469.gif)
 
