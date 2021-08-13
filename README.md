@@ -1,6 +1,6 @@
 # Crime Reporting System
-This is a web based project. The intention of making this project is to make the crime reporting system in digital fashion and to save the time of the people. 
-And also this project is very helpful to the people in this current pandemic situation of COVID-19.
+This is a web based project. To make a crime reporting system in digital fashion this project was developed. This is very helpful to the people in this
+pandemic situation of COVID-19.
 
 Tools/Languages used:
 * Front-End: HTML, CSS
